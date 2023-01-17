@@ -71,7 +71,7 @@ function filter(arrayOfStrings) {
 
    arrayFiltrado = arrayOfStrings.filter(e=>{ return e[0] === "a"});
       
-   return arrayFiltrado;
+   return arrayFiltrado;   
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
